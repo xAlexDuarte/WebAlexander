@@ -109,7 +109,7 @@ a{
 }
 
 p{
-	font-size: 17px;
+	font-size: 20px;
 	font-weight: bolder;
 	line-height: 20px;
 	padding: 10px;
@@ -136,6 +136,9 @@ li:hover{
 	box-shadow: 0 0 10px white inset;
 	text-decoration: none;
 }
+
+
+
 
 
 img{
